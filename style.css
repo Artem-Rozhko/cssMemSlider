@@ -20,7 +20,7 @@ body {
   font-size: 24px;
   color: #fff;
   font-style: normal;
-  background: #25282a
+  background: #25282a;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 .slider {
   width: 100%;
 	transition: 0.5s;
-  overflow: hidden;
+  overflow: hidden;  
 }
 
 .slider_carousel {
